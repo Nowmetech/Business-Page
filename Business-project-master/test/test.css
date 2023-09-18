@@ -1,0 +1,140 @@
+/* 
+span{
+    position: absolute;
+    width: 376px;
+    height: 376px;    
+     border-radius: 376px;
+     opacity: 0.7;         
+     background: #E4E7FB;
+     filter: blur(100px);   
+
+} */
+.box-modal{
+    position: relative;
+    width: 50%;
+  
+}
+.sub-box-model{
+    position: absolute;
+    right: -9rem;
+    margin-top: 3rem;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.about-us{
+    color: #FB6B6C;
+    font-family: 'Bethany Kibang';
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.affordable{
+    color: #000D83;
+    font-family: 'Bell MT';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.mission-png{
+    position: relative;
+    display: flex;    
+    align-items: center;   
+    width: 464px;
+    height: 100px;
+    border-radius: 20px;
+    opacity: 0.8;
+    background: #FFF;
+    box-shadow: 0px 10px 20px 4px rgba(0, 0, 0, 0.10);
+    z-index: 5;
+
+}
+.mission-png img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 3rem;
+}
+.mission-png div{
+    position: absolute;
+    right: 2rem;
+    width: 248px;
+    height: 35px;
+    color: #000D83;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.vision-png{
+    position: relative;
+    display: flex;    
+    align-items: center;   
+    width: 464px;
+    height: 100px;
+    border-radius: 20px;
+    opacity: 0.8;
+    background: #FFF;
+    box-shadow: 0px 10px 20px 4px rgba(0, 0, 0, 0.10);
+    z-index: 5;
+}
+.vision-png img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 3rem;
+}
+.vision-png div{
+    position: absolute;
+    right: 2rem;
+    width: 248px;
+    height: 35px;
+    color: #000D83;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;}
+ .learn-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 171px;
+    height: 49px;
+    color: #FFF;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 10px;
+    background: #000D83;
+    box-shadow: 0px 10px 20px 4px #B5BBF2;
+    }
+    .body-part-2-gradient-1{
+       position: absolute;
+       left: 12rem;
+        width: 266px;
+        height: 266px;       
+        border-radius: 266px;
+        background: #BBE5FF;
+        filter: blur(100px);
+    }
+
+
+    .body-part-2-gradient-2{
+        position: absolute;
+        top: 23rem;
+        left: 40rem;
+        width: 376px;
+        height: 376px;
+        border-radius: 376px;
+        opacity: 0.7;
+        background: #E4E7FB;
+        filter: blur(100px);
+        
+     }
